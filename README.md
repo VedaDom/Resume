@@ -1,6 +1,6 @@
 # My resume
 
-
+![Screenshot 2020-12-17 153544](https://user-images.githubusercontent.com/28502544/102494876-08a4b100-407e-11eb-9b66-c879bdd1eef6.png)
 
 Created using flutter.
 
